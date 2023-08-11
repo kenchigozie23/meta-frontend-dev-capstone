@@ -28,7 +28,7 @@ export const Footer = () => {
                 </ul>
                 <hr className="my-6 border-gray-200" />
                 <span className="block text-sm text-gray-500">
-                    Copyright © 2023 asimowsky™
+                    Copyright © 2023 Kenneth Okoronkwo™
                     {t("rights")}.
                 </span>
             </div>
